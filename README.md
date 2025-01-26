@@ -1,6 +1,6 @@
 # RShinyPortfolio
 Links to examples of R shiny apps developed by Lionel Morgado:
 
-* [XpressR](https://lio-mor.shinyapps.io/xpressr/)
+* [XpressR](https://lio-mor.shinyapps.io/xpressr/): A tool for gene expression visualization
 
-* [AnnotatoR](https://lio-mor.shinyapps.io/AnnotatoR/)
+* [AnnotatoR](https://lio-mor.shinyapps.io/AnnotatoR/): A tool to get protein annotations
