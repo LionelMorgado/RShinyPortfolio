@@ -1,6 +1,6 @@
 # RShinyPortfolio
-Links to public R shiny apps portfolio
+Links to examples of R shiny apps developed by Lionel Morgado:
 
-* (XpressR)[https://lio-mor.shinyapps.io/xpressr/]
+* [XpressR](https://lio-mor.shinyapps.io/xpressr/)
 
-* (AnnotatoR)[https://lio-mor.shinyapps.io/AnnotatoR/]
+* [AnnotatoR](https://lio-mor.shinyapps.io/AnnotatoR/)
