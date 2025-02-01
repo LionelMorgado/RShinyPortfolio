@@ -5,4 +5,4 @@ Links to examples of R shiny apps developed by Lionel Morgado:
 
 * [AnnotatoR](https://lio-mor.shinyapps.io/AnnotatoR/): A tool to get protein annotations
 
-* [MethBrowseR](https://lio-mor.shinyapps.io/MethBrowseR/):A portal to explore epigenetic marks in epiRILs from Arabidopsis thaliana
+* [MethBrowseR](https://lio-mor.shinyapps.io/MethBrowseR/): A portal to explore epigenetic marks in epiRILs from Arabidopsis thaliana
